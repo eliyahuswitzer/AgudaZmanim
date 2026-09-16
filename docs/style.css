@@ -1,0 +1,138 @@
+:root {
+  --bg-top: #0f4a5c;
+  --bg-bottom: #0b1030;
+  --title: #f5d547;
+  --text: #f2f4f8;
+  --label: #b9c3d3;
+  --time: #c9a7ff;
+  --hebrew: #f0c987;
+  --note: #9fb0c6;
+  --highlight: #ffd166;
+  --divider: rgba(255, 255, 255, 0.12);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--bg-bottom);
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  padding: env(safe-area-inset-top) 16px env(safe-area-inset-bottom);
+  background: linear-gradient(180deg, var(--bg-top) 0%, var(--bg-bottom) 70%) fixed;
+  color: var(--text);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 18px;
+  line-height: 1.35;
+}
+
+a {
+  color: inherit;
+}
+
+header {
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 18px 0 10px;
+  text-align: center;
+  border-bottom: 1px solid var(--divider);
+}
+
+header h1 {
+  margin: 0 0 6px;
+  color: var(--title);
+  font-size: 1.35rem;
+  line-height: 1.2;
+}
+
+header a {
+  display: block;
+  font-size: 0.95rem;
+  color: var(--label);
+}
+
+main {
+  max-width: 560px;
+  margin: 0 auto;
+}
+
+.day {
+  padding: 18px 0;
+  border-bottom: 1px solid var(--divider);
+}
+
+.day h2 {
+  margin: 0;
+  text-align: center;
+  font-size: 1.15rem;
+  line-height: 1.3;
+}
+
+.today-badge {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 1px 8px;
+  border-radius: 999px;
+  background: var(--title);
+  color: var(--bg-bottom);
+  font-size: 0.75rem;
+  vertical-align: middle;
+}
+
+.hebrew {
+  margin: 4px 0 0;
+  text-align: center;
+  color: var(--hebrew);
+  font-size: 1.05rem;
+}
+
+.times {
+  display: grid;
+  grid-template-columns: 42% 1fr;
+  gap: 8px 14px;
+  margin: 14px 0 0;
+}
+
+.times dt {
+  color: var(--label);
+}
+
+.times dd {
+  margin: 0;
+  color: var(--time);
+}
+
+/* Lines with no time, like "Tashlich" or "LEGAL HOLIDAY" */
+.times .note {
+  grid-column: 1 / -1;
+  color: var(--note);
+  font-style: italic;
+}
+
+.times .bold {
+  color: var(--highlight);
+  font-weight: 700;
+}
+
+.status {
+  margin: 32px 0;
+  text-align: center;
+  color: var(--label);
+}
+
+footer {
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 18px 0 32px;
+  text-align: center;
+  color: var(--note);
+  font-size: 0.85rem;
+}
+
+footer p {
+  margin: 0 0 6px;
+}

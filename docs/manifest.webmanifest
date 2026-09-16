@@ -1,0 +1,15 @@
+{
+  "name": "Agudas Yisroel Zmanim",
+  "short_name": "Agudas Zmanim",
+  "description": "Minyan times for Agudas Yisroel Bircas Yaakov of Passaic Park",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1030",
+  "theme_color": "#0b1f3a",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
