@@ -55,9 +55,52 @@ header a {
   color: var(--label);
 }
 
+header .subtitle {
+  margin: 0;
+  color: var(--label);
+  font-size: 0.95rem;
+}
+
+#shul-picker {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px 14px;
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--divider);
+  font-size: 0.9rem;
+  color: var(--label);
+}
+
+.shul-toggle {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  cursor: pointer;
+}
+
+.shul-toggle input {
+  width: 17px;
+  height: 17px;
+  accent-color: var(--title);
+}
+
 main {
   max-width: 560px;
   margin: 0 auto;
+}
+
+.shul-name {
+  margin: 14px 0 0;
+  color: var(--hebrew);
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.shul-block + .shul-block {
+  border-top: 1px dashed var(--divider);
 }
 
 .day {
@@ -135,4 +178,14 @@ footer {
 
 footer p {
   margin: 0 0 6px;
+}
+
+footer .legend {
+  margin: 0;
+  font-size: 0.8rem;
+  opacity: 0.75;
+}
+
+footer .caveat {
+  margin-top: 10px;
 }

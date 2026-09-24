@@ -22,8 +22,7 @@ from datetime import date
 import pdfplumber
 from pdfplumber.utils import cluster_objects
 
-MONTHS = ["january", "february", "march", "april", "may", "june", "july",
-          "august", "september", "october", "november", "december"]
+from parsing import MONTHS, ParseError, cluster_positions, split_label
 
 # The Hebrew in these PDFs is typed with an old font where each Latin key
 # draws a Hebrew letter, and the text is stored left-to-right (reversed).
@@ -40,15 +39,7 @@ HEBREW_KEYS = {
 # Reversing the text also flips which way brackets face.
 MIRRORED = {"(": ")", ")": "("}
 
-TIME = r"\d{1,2}:\d{2}"
-# Where the "value" part of a line starts: the first time, optionally
-# preceded by a word like "after" or "Approx."
-VALUE_START = re.compile(rf"(?:\b(?:after|approx\.?)\s+)?{TIME}", re.IGNORECASE)
 DATE_LINE = re.compile(rf"^({'|'.join(MONTHS)})\s+(\d{{1,2}})\b", re.IGNORECASE)
-
-
-class LuachParseError(Exception):
-    pass
 
 
 def decode_hebrew(text):
@@ -56,15 +47,6 @@ def decode_hebrew(text):
     if unknown:
         print(f"  warning: unknown Hebrew font characters {sorted(unknown)} in {text!r}")
     return "".join(MIRRORED.get(ch, HEBREW_KEYS.get(ch, ch)) for ch in reversed(text))
-
-
-def cluster_positions(values, tolerance=3):
-    """Collapse nearly-equal coordinates (double-drawn borders) into one."""
-    result = []
-    for v in sorted(values):
-        if not result or v - result[-1] > tolerance:
-            result.append(v)
-    return result
 
 
 def classify_fonts(page):
@@ -87,7 +69,7 @@ def classify_fonts(page):
             english[font] = len(chars)
 
     if not hebrew:
-        raise LuachParseError("Could not identify the Hebrew font")
+        raise ParseError("Could not identify the Hebrew font")
     main_font = max(english, key=english.get)
     emphasis = set(english) - {main_font}
     return hebrew, emphasis
@@ -117,17 +99,6 @@ def read_lines(cell, hebrew_fonts, emphasis_fonts):
     return lines
 
 
-def split_label(text):
-    """'Mincha 1:40 pm' -> ('Mincha', '1:40 pm'). Lines without times get no value."""
-    text = text.strip()
-    if text.startswith("(") and text.endswith(")"):
-        text = text[1:-1].strip()
-    match = VALUE_START.search(text)
-    if not match:
-        return text, ""
-    return text[:match.start()].strip(), text[match.start():].strip()
-
-
 def parse_cell(lines, title_month, title_year):
     match = DATE_LINE.match(lines[0]["text"])
     if not match:
@@ -150,12 +121,12 @@ def parse_cell(lines, title_month, title_year):
     result = {
         "date": day.isoformat(),
         "hebrew_date": f"{heb_day} {heb_month}".strip(),
-        "hebrew": [],   # holiday / parsha lines, e.g. "שבת שובה"
+        "titles": [],   # holiday / parsha lines, e.g. "שבת שובה"
         "items": [],    # {"label", "time", "bold"} in the order the shul lists them
     }
     for line in lines[1:]:
         if line["all_hebrew"]:
-            result["hebrew"].append(line["text"])
+            result["titles"].append(line["text"])
             continue
         label, value = split_label(line["text"])
         items = result["items"]
@@ -175,7 +146,7 @@ def parse_pdf(path):
         title = page.extract_text(layout=False) or ""
         title_match = re.search(rf"LUACH FOR ({'|'.join(MONTHS)})\s+(\d{{4}})", title, re.IGNORECASE)
         if not title_match:
-            raise LuachParseError("No 'LUACH FOR <MONTH> <YEAR>' title found")
+            raise ParseError("No 'LUACH FOR <MONTH> <YEAR>' title found")
         title_month = MONTHS.index(title_match.group(1).lower()) + 1
         title_year = int(title_match.group(2))
 
@@ -183,7 +154,7 @@ def parse_pdf(path):
         xs = cluster_positions(e["x0"] for e in page.edges if e["orientation"] == "v" and e["height"] > 30)
         ys = cluster_positions(e["top"] for e in page.edges if e["orientation"] == "h" and e["width"] > 30)
         if len(xs) != 8:
-            raise LuachParseError(f"Expected 7 calendar columns, found {len(xs) - 1}")
+            raise ParseError(f"Expected 7 calendar columns, found {len(xs) - 1}")
 
         days = []
         for top, bottom in zip(ys, ys[1:]):
@@ -204,12 +175,12 @@ def parse_pdf(path):
                         days.append(day)
 
     if not days:
-        raise LuachParseError("No day cells found")
+        raise ParseError("No day cells found")
     days.sort(key=lambda d: d["date"])
     for prev, cur in zip(days, days[1:]):
         gap = (date.fromisoformat(cur["date"]) - date.fromisoformat(prev["date"])).days
         if gap != 1:
-            raise LuachParseError(f"Dates not consecutive: {prev['date']} -> {cur['date']}")
+            raise ParseError(f"Dates not consecutive: {prev['date']} -> {cur['date']}")
 
     return {"month": f"{title_year}-{title_month:02d}", "days": days}
 

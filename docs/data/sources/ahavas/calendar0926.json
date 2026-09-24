@@ -1,0 +1,979 @@
+{
+  "file": "calendar0926.pdf",
+  "url": "https://images.shulcloud.com/16360/uploads/Calendar-Files/calendar0926.pdf",
+  "sha256": "7c00fa65886bb026a4c3dfc4a90b23ab78bea0af64617aae7b0c5d36aa3245fa",
+  "fetched": "2026-09-24T20:43:05+00:00",
+  "month": "2026-09",
+  "legend": [
+    "Davening Locations:",
+    "* = Blatt Beis Medrash (downstairs)",
+    "** = Main Shul *** = Brown Ballroom",
+    "♦ = Vasikin Minyan in",
+    "Brown Ballroom / Main Shul",
+    "All other locations are Feuerman Beis",
+    "Medrash"
+  ],
+  "notes": [
+    "Motzei Shabbos: Times indicated are 50 and 72 minutes after Shkia"
+  ],
+  "days": [
+    {
+      "date": "2026-09-04",
+      "hebrew_date": "Elul 22",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "5:56♦, 6:00, 6:30*, 7:00***, 7:30*, 8:00***, 8:30*, 9:00***, 9:30*, 10:00***, 10:30*",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:30*, 2:00*, 2:30*, 3:00*, 4:00*, 5:00*, 5:48***, 7:08***",
+          "bold": false
+        },
+        {
+          "label": "Candlelighting",
+          "time": "7:05",
+          "bold": false
+        },
+        {
+          "label": "Kabbalas Shabbos",
+          "time": "6:03***, 7:23***",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "hebrew_date": "Elul 23",
+      "titles": [
+        "Nitzavim-Vayelech"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:10, 9:00***",
+          "bold": false
+        },
+        {
+          "label": "Sof Z'man Krias Shma",
+          "time": "9:41",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:30, 2:15***, 3:00***, 3:30***, 4:00***, 4:30***, 5:00***, 5:30***, 6:00***, 6:25***, 6:50***",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:13***, 8:35",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "hebrew_date": "Elul 24",
+      "titles": [],
+      "items": [
+        {
+          "label": "Selichos",
+          "time": "12:55***, 5:23***, 6:30, 7:30***, 8:30",
+          "bold": false
+        },
+        {
+          "label": "Earliest Talis & Tefillin",
+          "time": "5:33",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "5:58♦, 6:30*, 7:00, 7:30*, 8:00***, 8:30*, 9:00***, 9:30*, 10:00**, 10:30*",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:30*, 2:00*, 2:30*, 3:00*, 3:30*, 4:00*, 4:30*, 5:00*, 5:30***, 5:45*, 6:00***, 6:20***, 6:40***, 7:00**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "6:00*, 7:21**, 7:40***, 8:00, 8:20***, 8:40***, 9:00***, 9:20***, 9:40***, 10:00***, 10:20***, 10:40***, 11:00***, 11:20***, 11:40***, 11:59***",
+          "bold": true
+        },
+        {
+          "label": "Chulin 129",
+          "time": "",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "hebrew_date": "Elul 25",
+      "titles": [],
+      "items": [
+        {
+          "label": "Selichos",
+          "time": "12:54",
+          "bold": false
+        },
+        {
+          "label": "Earliest Talis & Tefillin",
+          "time": "5:34",
+          "bold": false
+        },
+        {
+          "label": "Selichos & Shacharis",
+          "time": "5:29♦, 5:30, 6:00*, 6:30, 7:00***, 7:30*, 8:00, 8:30***, 9:00*, 9:30, 10:00***",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:30*, 2:00*, 2:30*, 3:00*, 3:30*, 4:00*, 4:30*, 5:00*, 5:30***, 5:44*, 6:00***, 6:20***, 6:40***, 7:00**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:59*, 7:19**, 7:40***, 8:00, 8:20***, 8:40***, 9:00***, 9:20***, 9:40***, 10:00***, 10:20***, 10:40***, 11:00***, 11:20***, 11:40***, 11:59***",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "hebrew_date": "Elul 26",
+      "titles": [],
+      "items": [
+        {
+          "label": "Selichos",
+          "time": "12:54",
+          "bold": false
+        },
+        {
+          "label": "Earliest Talis & Tefillin",
+          "time": "5:35",
+          "bold": false
+        },
+        {
+          "label": "Selichos & Shacharis",
+          "time": "5:30, 5:30♦, 6:00*, 6:30, 7:00***, 7:30*, 8:00, 8:30***, 9:00*, 9:30, 10:00***",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:30*, 2:00*, 2:30*, 3:00*, 3:30*, 4:00*, 4:30*, 5:00*, 5:30***, 5:42*, 6:00***, 6:20***, 6:40***, 7:00**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:57*, 7:18**, 7:40***, 8:00, 8:20***, 8:40***, 9:00***, 9:20***, 9:40***, 10:00***, 10:20***, 10:40***, 11:00***, 11:20***, 11:40***, 11:59***",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "hebrew_date": "Elul 27",
+      "titles": [],
+      "items": [
+        {
+          "label": "Selichos",
+          "time": "12:54",
+          "bold": false
+        },
+        {
+          "label": "Earliest Talis & Tefillin",
+          "time": "5:36",
+          "bold": false
+        },
+        {
+          "label": "Selichos & Shacharis",
+          "time": "5:30, 5:31♦, 6:00*, 6:30, 7:00***, 7:30*, 8:00, 8:30***, 9:00*, 9:30, 10:00***",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:30*, 2:00*, 2:30*, 3:00*, 3:30*, 4:00*, 4:30*, 5:00*, 5:30***, 5:41*, 6:00***, 6:20***, 6:40***, 7:00**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:56*, 7:16**, 7:40***, 8:00, 8:20***, 8:40***, 9:00***, 9:20***, 9:40***, 10:00***, 10:20***, 10:40***, 11:00***, 11:20***, 11:40***, 11:59***",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "hebrew_date": "Elul 28",
+      "titles": [],
+      "items": [
+        {
+          "label": "Selichos",
+          "time": "12:53",
+          "bold": false
+        },
+        {
+          "label": "Earliest Talis & Tefillin",
+          "time": "5:37",
+          "bold": false
+        },
+        {
+          "label": "Selichos & Shacharis",
+          "time": "5:30, 5:32♦, 6:00*, 6:30, 7:00***, 7:30*, 8:00, 8:30***, 9:00*, 9:30, 10:00***",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:30*, 2:00*, 2:30*, 3:00*, 3:30*, 4:00*, 4:30*, 5:00*, 5:30***, 5:40*, 6:00***, 6:20***, 6:40***, 7:00**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:55*, 7:15**, 7:40***, 8:00, 8:20***, 8:40***, 9:00***, 9:20***, 9:40***, 10:00***, 10:20***, 10:40***, 11:00***, 11:20***, 11:40***, 11:59***",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "hebrew_date": "Elul 29",
+      "titles": [],
+      "items": [
+        {
+          "label": "Selichos",
+          "time": "12:53",
+          "bold": false
+        },
+        {
+          "label": "Earliest Talis & Tefillin",
+          "time": "5:38",
+          "bold": false
+        },
+        {
+          "label": "Selichos & Shacharis",
+          "time": "4:48♦, 5:00, 5:30*, 6:00***, 6:30, 7:00**, 7:30*, 8:00***, 8:30, 9:00**, 9:30*",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:30*, 2:00*, 2:30*, 3:00*, 4:00*, 5:00*, 6:57**",
+          "bold": false
+        },
+        {
+          "label": "Candlelighting",
+          "time": "6:54",
+          "bold": false
+        },
+        {
+          "label": "Kabbalas Shabbos",
+          "time": "7:12",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "hebrew_date": "Tishrei 1",
+      "titles": [
+        "Rosh Hashana"
+      ],
+      "items": [
+        {
+          "label": "Earliest Talis",
+          "time": "5:39",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "5:39***, 8:00**",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:30**, 4:00**, 4:30**, 5:00**, 5:30**, 6:00**, 6:35**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv not before",
+          "time": "7:45**",
+          "bold": false
+        },
+        {
+          "label": "Candlelighting",
+          "time": "after 8:01",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "hebrew_date": "Tishrei 2",
+      "titles": [
+        "Rosh Hashana"
+      ],
+      "items": [
+        {
+          "label": "Earliest Talis",
+          "time": "5:41",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "5:41***, 8:00**",
+          "bold": false
+        },
+        {
+          "label": "Additional Shofar",
+          "time": "12:00",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:30**, 4:00**, 4:30**, 5:00**, 5:30**, 6:00**, 6:45**",
+          "bold": false
+        },
+        {
+          "label": "Tashlich",
+          "time": "",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "7:59**, 8:21",
+          "bold": false
+        },
+        {
+          "label": "Chulin 136",
+          "time": "",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "hebrew_date": "Tishrei 3",
+      "titles": [
+        "Tzom Gedalia"
+      ],
+      "items": [
+        {
+          "label": "Selichos",
+          "time": "12:52",
+          "bold": false
+        },
+        {
+          "label": "Fast begins",
+          "time": "5:24",
+          "bold": true
+        },
+        {
+          "label": "Earliest Talis & Tefillin",
+          "time": "5:42",
+          "bold": false
+        },
+        {
+          "label": "Selichos & Shacharis",
+          "time": "5:20, 5:21♦, 5:50*, 6:20***, 6:50, 7:20**, 7:50*, 8:20***, 8:50, 9:20**, 9:50*",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:23**, 1:30*, 2:00*, 2:30*, 3:00*, 3:30*, 4:00*, 4:30*, 5:00*, 5:20*, 5:30***, 6:00***, 6:20***, 6:45**",
+          "bold": true
+        },
+        {
+          "label": "Fast ends",
+          "time": "7:41",
+          "bold": true
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:49*, 7:20**, 8:00**, 9:00**, 10:00**, 11:00** only",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "hebrew_date": "Tishrei 4",
+      "titles": [],
+      "items": [
+        {
+          "label": "Selichos",
+          "time": "12:52",
+          "bold": false
+        },
+        {
+          "label": "Earliest Talis & Tefillin",
+          "time": "5:43",
+          "bold": false
+        },
+        {
+          "label": "Selichos & Shacharis",
+          "time": "5:20, 5:22♦, 5:50*, 6:20***, 6:50, 7:20**, 7:50*, 8:20***, 8:50, 9:20**, 9:50*",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:23**, 1:30*, 2:00*, 2:30*, 3:00*, 3:30*, 4:00*, 4:30*, 5:00*, 5:30***, 5:33*, 6:00***, 6:20***, 6:50**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:48*, 7:06**, 7:40***, 8:00, 8:20***, 8:40***, 9:00***, 9:20***, 9:40***, 10:00***, 10:20***, 10:40***, 11:00***, 11:20***, 11:40***, 11:59***",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "hebrew_date": "Tishrei 5",
+      "titles": [],
+      "items": [
+        {
+          "label": "Selichos",
+          "time": "12:51",
+          "bold": false
+        },
+        {
+          "label": "Earliest Talis & Tefillin",
+          "time": "5:44",
+          "bold": false
+        },
+        {
+          "label": "Selichos & Shacharis",
+          "time": "5:20, 5:23♦, 5:50*, 6:20***, 6:50, 7:20**, 7:50*, 8:20***, 8:50, 9:20**, 9:50*",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:22**, 1:30*, 2:00*, 2:30*, 3:00*, 3:30*, 4:00*, 4:30*, 5:00*, 5:30*, 5:30***, 6:00***, 6:20***, 6:50**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:46*, 7:05**, 7:40***, 8:00, 8:20***, 8:40***, 9:00***, 9:20***, 9:40***, 10:00***, 10:20***, 10:40***, 11:00***, 11:20***, 11:40***, 11:59***",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "hebrew_date": "Tishrei 6",
+      "titles": [],
+      "items": [
+        {
+          "label": "Selichos",
+          "time": "12:51",
+          "bold": false
+        },
+        {
+          "label": "Earliest Talis & Tefillin",
+          "time": "5:45",
+          "bold": false
+        },
+        {
+          "label": "Selichos & Shacharis",
+          "time": "5:20, 5:24♦, 5:50*, 6:20***, 6:50, 7:20**, 7:50*, 8:20***, 8:50, 9:20**, 9:50*",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:22**, 1:30*, 2:00*, 2:30*, 3:00*, 3:30*, 4:00*, 4:30*, 5:00*, 5:30*, 5:30***, 6:00***, 6:20***, 6:50**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:45*, 7:05**, 7:40***, 8:00, 8:20***, 8:40***, 9:00***, 9:20***, 9:40***, 10:00***, 10:20***, 10:40***, 11:00***, 11:20***, 11:40***, 11:59***",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "hebrew_date": "Tishrei 7",
+      "titles": [],
+      "items": [
+        {
+          "label": "Selichos",
+          "time": "12:51",
+          "bold": false
+        },
+        {
+          "label": "Earliest Talis & Tefillin",
+          "time": "5:46",
+          "bold": false
+        },
+        {
+          "label": "Selichos & Shacharis",
+          "time": "5:20, 5:25♦, 5:50*, 6:20***, 6:50, 7:20**, 7:50*, 8:20***, 8:50, 9:20**, 9:50*",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:21**, 1:30*, 2:00*, 2:30*, 3:00*, 4:00*, 5:00*, 6:45**",
+          "bold": false
+        },
+        {
+          "label": "Candlelighting",
+          "time": "6:42",
+          "bold": false
+        },
+        {
+          "label": "Kabbalas Shabbos",
+          "time": "7:00**",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "hebrew_date": "Tishrei 8",
+      "titles": [
+        "Ha'azinu - Shuva"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:10, 9:00**",
+          "bold": false
+        },
+        {
+          "label": "Sof Z'man Krias Shma",
+          "time": "9:46",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:30**, 2:15**, 3:00**, 3:30**, 4:00**, 4:30**, 5:00**, 5:30**, 6:00**, 6:25**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "7:49**, 8:11",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "hebrew_date": "Tishrei 9",
+      "titles": [],
+      "items": [
+        {
+          "label": "Selichos",
+          "time": "12:50",
+          "bold": false
+        },
+        {
+          "label": "Earliest Talis & Tefillin",
+          "time": "5:48",
+          "bold": false
+        },
+        {
+          "label": "Selichos & Shacharis",
+          "time": "5:40, 5:52♦, 6:10*, 6:40, 7:10*, 7:40**, 8:10, 8:40*, 9:10**, 9:40, 10:10*",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:21**, 1:30*, 2:00**, 2:30**, 3:00**, 3:30**, 4:00**, 4:30**",
+          "bold": false
+        },
+        {
+          "label": "Candlelighting",
+          "time": "6:38",
+          "bold": false
+        },
+        {
+          "label": "Kol Nidrei",
+          "time": "6:40**",
+          "bold": false
+        },
+        {
+          "label": "Bechoros 2",
+          "time": "",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "hebrew_date": "Tishrei 10",
+      "titles": [
+        "Yom Kippur"
+      ],
+      "items": [
+        {
+          "label": "Earliest Talis",
+          "time": "5:49",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "5:49***, 8:30**",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "4:55**",
+          "bold": false
+        },
+        {
+          "label": "N'eila",
+          "time": "6:25**",
+          "bold": false
+        },
+        {
+          "label": "End of Fast",
+          "time": "7:46",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "hebrew_date": "Tishrei 11",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:00, 6:14♦, 6:30*, 7:00***, 7:30*, 8:00**, 8:30*, 9:00**, 9:30*, 10:00**, 10:30*",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:20**, 1:30*, 2:00*, 2:30*, 3:00*, 3:30*, 4:00*, 4:30*, 5:00*, 5:23*, 5:30***, 6:00***, 6:20***, 6:40**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:38*, 6:55**, 7:20**, 7:40***, 8:00, 8:20***, 8:40***, 9:00***, 9:20***, 9:40***, 10:00***, 10:20***, 10:40***, 11:00***, 11:20***, 11:40***, 11:59***",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "hebrew_date": "Tishrei 12",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:00, 6:15♦, 6:30*, 7:00***, 7:30*, 8:00**, 8:30*, 9:00**, 9:30*, 10:00**, 10:30*",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:19**, 1:30*, 2:00*, 2:30*, 3:00*, 3:30*, 4:00*, 4:30*, 5:00*, 5:21*, 5:30***, 6:00***, 6:20***, 6:40**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:36*, 6:55**, 7:20**, 7:40***, 8:00, 8:20***, 8:40***, 9:00***, 9:20***, 9:40***, 10:00***, 10:20***, 10:40***, 11:00***, 11:20***, 11:40***, 11:59***",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "hebrew_date": "Tishrei 13",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:00, 6:16♦, 6:30*, 7:00***, 7:30*, 8:00**, 8:30*, 9:00**, 9:30*, 10:00**, 10:30*",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:19**, 1:30*, 2:00*, 2:30*, 3:00*, 3:30*, 4:00*, 4:30*, 5:00*, 5:20*, 5:30***, 6:00***, 6:20***, 6:40**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:35*, 6:55**, 7:20**, 7:40***, 8:00, 8:20***, 8:40***, 9:00***, 9:20***, 9:40***, 10:00***, 10:20***, 10:40***, 11:00***, 11:20***, 11:40***, 11:59***",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "hebrew_date": "Tishrei 14",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:00, 6:17♦, 6:30*, 7:00***, 7:30*, 8:00**, 8:30*, 9:00**, 9:30*, 10:00**, 10:30*",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:18**, 1:30*, 2:00*, 2:30*, 3:00*, 4:00*, 5:00*, 6:33**",
+          "bold": false
+        },
+        {
+          "label": "Candlelighting",
+          "time": "6:30",
+          "bold": false
+        },
+        {
+          "label": "Kabbalas Shabbos",
+          "time": "6:48**",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "hebrew_date": "Tishrei 15",
+      "titles": [
+        "Sukkos"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:10, 9:00***",
+          "bold": false
+        },
+        {
+          "label": "Sof Z'man Krias Shma",
+          "time": "9:48",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:30**, 2:15**, 3:00**, 3:30**, 4:00**, 4:30**, 5:00**, 5:30**, 6:15**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv not before",
+          "time": "7:20**",
+          "bold": false
+        },
+        {
+          "label": "Candlelighting",
+          "time": "after 7:37",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "hebrew_date": "Tishrei 16",
+      "titles": [
+        "Sukkos"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:10, 9:00***",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:30**, 2:15**, 3:00**, 3:30**, 4:00**, 4:30**, 5:00**, 5:30**, 6:00**, 6:30**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "7:36**, 7:58",
+          "bold": false
+        },
+        {
+          "label": "Bechoros 9",
+          "time": "",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "hebrew_date": "Tishrei 17",
+      "titles": [
+        "Chol Hamoed"
+      ],
+      "items": [
+        {
+          "label": "Earliest Talis & Tefillin",
+          "time": "5:56",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "5:41***, 6:20♦, 7:00*, 7:30***, 8:00**, 8:30*, 9:00***, 9:30**, 10:00*, 10:30***",
+          "bold": true
+        },
+        {
+          "label": "Mincha",
+          "time": "1:17**, 1:30*, 2:00*, 2:30*, 3:00*, 3:30*, 4:00*, 4:30*, 5:00*, 5:14*, 5:30***, 6:00***, 6:25**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:29*, 6:44**, 7:20**, 7:40***, 8:00, 8:20***, 8:40***, 9:00***, 9:20***, 9:40***, 10:00***, 10:20***, 10:40***, 11:00***, 11:20***, 11:40***, 11:59***",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "hebrew_date": "Tishrei 18",
+      "titles": [
+        "Chol Hamoed"
+      ],
+      "items": [
+        {
+          "label": "Earliest Talis & Tefillin",
+          "time": "5:57",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "5:42***, 6:21♦, 7:00*, 7:30***, 8:00**, 8:30*, 9:00***, 9:30**, 10:00*, 10:30***",
+          "bold": true
+        },
+        {
+          "label": "Mincha",
+          "time": "1:16**, 1:30*, 2:00*, 2:30*, 3:00*, 3:30*, 4:00*, 4:30*, 5:00*, 5:13*, 5:30***, 6:00***, 6:25**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:28*, 6:42**, 7:20**, 7:40***, 8:00, 8:20***, 8:40***, 9:00***, 9:20***, 9:40***, 10:00***, 10:20***, 10:40***, 11:00***, 11:20***, 11:40***, 11:59***",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "hebrew_date": "Tishrei 19",
+      "titles": [
+        "Chol Hamoed"
+      ],
+      "items": [
+        {
+          "label": "Earliest Talis & Tefillin",
+          "time": "5:58",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "5:43***, 6:22♦, 7:00*, 7:30***, 8:00**, 8:30*, 9:00***, 9:30**, 10:00*, 10:30***",
+          "bold": true
+        },
+        {
+          "label": "Mincha",
+          "time": "1:16**, 1:30*, 2:00*, 2:30*, 3:00*, 3:30*, 4:00*, 4:30*, 5:00*, 5:11*, 5:30***, 6:00***, 6:25**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:26*, 6:41**, 7:20**, 7:40***, 8:00, 8:20***, 8:40***, 9:00***, 9:20***, 9:40***, 10:00***, 10:20***, 10:40***, 11:00***, 11:20***, 11:40***, 11:59***",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "hebrew_date": "Tishrei 20",
+      "titles": [
+        "Chol Hamoed"
+      ],
+      "items": [
+        {
+          "label": "Earliest Talis & Tefillin",
+          "time": "5:59",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "5:44***, 6:23♦, 7:00*, 7:30***, 8:00**, 8:30*, 9:00***, 9:30**, 10:00*, 10:30***",
+          "bold": true
+        },
+        {
+          "label": "Mincha",
+          "time": "1:15**, 1:30*, 2:00*, 2:30*, 3:00*, 3:30*, 4:00*, 4:30*, 5:00*, 5:10*, 5:30***, 6:00***, 6:25**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:25*, 6:40**, 7:20**, 7:40***, 8:00, 8:20***, 8:40***, 9:00***, 9:20***, 9:40***, 10:00***, 10:20***, 10:40***, 11:00***, 11:20***, 11:40***, 11:59***",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "hebrew_date": "Tishrei 21",
+      "titles": [
+        "Hoshana Raba"
+      ],
+      "items": [
+        {
+          "label": "Earliest Talis & Tefillin",
+          "time": "6:00",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "5:40***, 6:16♦, 7:00*, 7:45***, 8:30**, 9:00*, 9:45***, 10:30**",
+          "bold": true
+        },
+        {
+          "label": "Mincha",
+          "time": "1:15**, 1:30*, 2:00*, 2:30*, 3:00*, 4:00*, 5:00*, 6:21**",
+          "bold": false
+        },
+        {
+          "label": "Candlelighting",
+          "time": "6:18",
+          "bold": false
+        },
+        {
+          "label": "Kabbalas Shabbos",
+          "time": "6:36**",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "hebrew_date": "Tishrei 22",
+      "titles": [
+        "Shmini Atzeres"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:10, 9:00***",
+          "bold": false
+        },
+        {
+          "label": "Sof Z'man Krias Shma",
+          "time": "9:50",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:30**, 2:15**, 3:00**, 3:30**, 4:00**, 4:30**, 5:00**, 5:30**, 6:00**",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv not before",
+          "time": "7:10**",
+          "bold": false
+        },
+        {
+          "label": "Candlelighting",
+          "time": "after 7:26",
+          "bold": false
+        }
+      ]
+    }
+  ]
+}

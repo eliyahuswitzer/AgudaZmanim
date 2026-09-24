@@ -1,14 +1,15 @@
 // Makes the app work offline: always try the network first (so times are fresh),
 // and fall back to the last saved copy when there's no connection.
 
-const CACHE = "zmanim-v1";
+const CACHE = "zmanim-v2";
 const APP_FILES = [
   "./",
   "index.html",
   "style.css",
   "app.js",
   "manifest.webmanifest",
-  "data/schedule.json",
+  "data/shuls.json",
+  "data/aguda.json",
   "icons/icon-192.png",
 ];
 
@@ -18,7 +19,11 @@ self.addEventListener("install", (event) => {
 });
 
 self.addEventListener("activate", (event) => {
-  event.waitUntil(clients.claim());
+  event.waitUntil(
+    caches.keys()
+      .then((names) => Promise.all(names.filter((name) => name !== CACHE).map((name) => caches.delete(name))))
+      .then(() => clients.claim())
+  );
 });
 
 self.addEventListener("fetch", (event) => {

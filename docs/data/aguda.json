@@ -1,14 +1,17 @@
 {
-  "file": "september_2026.pdf",
-  "url": "https://www.ayby.org/uploads/6/9/1/7/6917229/september_2026.pdf",
-  "sha256": "640c985004b763dcc21a447ad3b61ab3cab94d68f5b631fc23b7592ff9362c95",
-  "fetched": "2026-09-16T11:31:06+00:00",
-  "month": "2026-09",
+  "id": "aguda",
+  "name": "Agudas Yisroel Bircas Yaakov",
+  "address": "262 Terhune Ave, Passaic, NJ 07055",
+  "website": "https://www.ayby.org/",
+  "pdf_url": "https://www.ayby.org/uploads/6/9/1/7/6917229/september_2026.pdf",
+  "updated": "2026-09-24T20:42:25+00:00",
+  "legend": [],
+  "notes": [],
   "days": [
     {
       "date": "2026-09-06",
       "hebrew_date": "24 אלול",
-      "hebrew": [],
+      "titles": [],
       "items": [
         {
           "label": "Shacharis",
@@ -35,7 +38,7 @@
     {
       "date": "2026-09-07",
       "hebrew_date": "25 אלול",
-      "hebrew": [],
+      "titles": [],
       "items": [
         {
           "label": "LEGAL HOLIDAY",
@@ -72,7 +75,7 @@
     {
       "date": "2026-09-08",
       "hebrew_date": "26 אלול",
-      "hebrew": [],
+      "titles": [],
       "items": [
         {
           "label": "Slichos",
@@ -104,7 +107,7 @@
     {
       "date": "2026-09-09",
       "hebrew_date": "27 אלול",
-      "hebrew": [],
+      "titles": [],
       "items": [
         {
           "label": "Slichos",
@@ -136,7 +139,7 @@
     {
       "date": "2026-09-10",
       "hebrew_date": "28 אלול",
-      "hebrew": [],
+      "titles": [],
       "items": [
         {
           "label": "Slichos",
@@ -168,7 +171,7 @@
     {
       "date": "2026-09-11",
       "hebrew_date": "29 אלול",
-      "hebrew": [
+      "titles": [
         "ערב ראש השנה"
       ],
       "items": [
@@ -202,7 +205,7 @@
     {
       "date": "2026-09-12",
       "hebrew_date": "1 תשרי",
-      "hebrew": [
+      "titles": [
         "ראש השנה"
       ],
       "items": [
@@ -251,7 +254,7 @@
     {
       "date": "2026-09-13",
       "hebrew_date": "2 תשרי",
-      "hebrew": [
+      "titles": [
         "ראש השנה"
       ],
       "items": [
@@ -295,7 +298,7 @@
     {
       "date": "2026-09-14",
       "hebrew_date": "3 תשרי",
-      "hebrew": [
+      "titles": [
         "תענית"
       ],
       "items": [
@@ -339,7 +342,7 @@
     {
       "date": "2026-09-15",
       "hebrew_date": "4 תשרי",
-      "hebrew": [],
+      "titles": [],
       "items": [
         {
           "label": "Earliest Talis & T'filin",
@@ -376,7 +379,7 @@
     {
       "date": "2026-09-16",
       "hebrew_date": "5 תשרי",
-      "hebrew": [],
+      "titles": [],
       "items": [
         {
           "label": "Earliest Talis & T'filin",
@@ -413,7 +416,7 @@
     {
       "date": "2026-09-17",
       "hebrew_date": "6 תשרי",
-      "hebrew": [],
+      "titles": [],
       "items": [
         {
           "label": "Earliest Talis & T'filin",
@@ -450,7 +453,7 @@
     {
       "date": "2026-09-18",
       "hebrew_date": "7 תשרי",
-      "hebrew": [],
+      "titles": [],
       "items": [
         {
           "label": "Earliest Talis & T'filin",
@@ -492,7 +495,7 @@
     {
       "date": "2026-09-19",
       "hebrew_date": "8 תשרי",
-      "hebrew": [
+      "titles": [
         "שבת שובה",
         "האזינו"
       ],
@@ -537,7 +540,7 @@
     {
       "date": "2026-09-20",
       "hebrew_date": "9 תשרי",
-      "hebrew": [
+      "titles": [
         "ערב יום כפור"
       ],
       "items": [
@@ -576,7 +579,7 @@
     {
       "date": "2026-09-21",
       "hebrew_date": "10 תשרי",
-      "hebrew": [
+      "titles": [
         "יום כפור"
       ],
       "items": [
@@ -615,7 +618,7 @@
     {
       "date": "2026-09-22",
       "hebrew_date": "11 תשרי",
-      "hebrew": [],
+      "titles": [],
       "items": [
         {
           "label": "Shacharis",
@@ -642,7 +645,7 @@
     {
       "date": "2026-09-23",
       "hebrew_date": "12 תשרי",
-      "hebrew": [],
+      "titles": [],
       "items": [
         {
           "label": "Shacharis",
@@ -669,7 +672,7 @@
     {
       "date": "2026-09-24",
       "hebrew_date": "13 תשרי",
-      "hebrew": [],
+      "titles": [],
       "items": [
         {
           "label": "Shacharis",
@@ -696,7 +699,7 @@
     {
       "date": "2026-09-25",
       "hebrew_date": "14 תשרי",
-      "hebrew": [
+      "titles": [
         "ערב סוכות"
       ],
       "items": [
@@ -720,7 +723,7 @@
     {
       "date": "2026-09-26",
       "hebrew_date": "15 תשרי",
-      "hebrew": [
+      "titles": [
         "סוכות"
       ],
       "items": [
@@ -774,7 +777,7 @@
     {
       "date": "2026-09-27",
       "hebrew_date": "16 תשרי",
-      "hebrew": [
+      "titles": [
         "סוכות"
       ],
       "items": [
@@ -808,7 +811,7 @@
     {
       "date": "2026-09-28",
       "hebrew_date": "17 תשרי",
-      "hebrew": [
+      "titles": [
         "חול המועד סוכות"
       ],
       "items": [
@@ -842,7 +845,7 @@
     {
       "date": "2026-09-29",
       "hebrew_date": "18 תשרי",
-      "hebrew": [
+      "titles": [
         "חול המועד סוכות"
       ],
       "items": [
@@ -876,7 +879,7 @@
     {
       "date": "2026-09-30",
       "hebrew_date": "19 תשרי",
-      "hebrew": [
+      "titles": [
         "חול המועד סוכות"
       ],
       "items": [
@@ -910,7 +913,7 @@
     {
       "date": "2026-10-01",
       "hebrew_date": "20 תשרי",
-      "hebrew": [
+      "titles": [
         "חול המועד סוכות"
       ],
       "items": [
@@ -944,7 +947,7 @@
     {
       "date": "2026-10-02",
       "hebrew_date": "21 תשרי",
-      "hebrew": [
+      "titles": [
         "הושענא רבה"
       ],
       "items": [
@@ -973,7 +976,7 @@
     {
       "date": "2026-10-03",
       "hebrew_date": "22 תשרי",
-      "hebrew": [
+      "titles": [
         "שמיני עצרת"
       ],
       "items": [
@@ -1027,7 +1030,7 @@
     {
       "date": "2026-10-04",
       "hebrew_date": "23 תשרי",
-      "hebrew": [
+      "titles": [
         "שמחת תורה"
       ],
       "items": [
@@ -1061,7 +1064,7 @@
     {
       "date": "2026-10-05",
       "hebrew_date": "24 תשרי",
-      "hebrew": [],
+      "titles": [],
       "items": [
         {
           "label": "Shacharis",
@@ -1088,7 +1091,7 @@
     {
       "date": "2026-10-06",
       "hebrew_date": "25 תשרי",
-      "hebrew": [],
+      "titles": [],
       "items": [
         {
           "label": "Shacharis",
@@ -1115,7 +1118,7 @@
     {
       "date": "2026-10-07",
       "hebrew_date": "26 תשרי",
-      "hebrew": [],
+      "titles": [],
       "items": [
         {
           "label": "Shacharis",
@@ -1142,7 +1145,7 @@
     {
       "date": "2026-10-08",
       "hebrew_date": "27 תשרי",
-      "hebrew": [],
+      "titles": [],
       "items": [
         {
           "label": "Shacharis",
@@ -1169,7 +1172,7 @@
     {
       "date": "2026-10-09",
       "hebrew_date": "28 תשרי",
-      "hebrew": [],
+      "titles": [],
       "items": [
         {
           "label": "Shacharis",
@@ -1191,7 +1194,7 @@
     {
       "date": "2026-10-10",
       "hebrew_date": "29 תשרי",
-      "hebrew": [
+      "titles": [
         "בראשית"
       ],
       "items": [

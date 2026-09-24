@@ -1,0 +1,20 @@
+[
+  {
+    "id": "aguda",
+    "name": "Agudas Yisroel Bircas Yaakov",
+    "short_name": "Aguda",
+    "default_on": true,
+    "file": "aguda.json",
+    "updated": "2026-09-24T20:42:25+00:00",
+    "stale": false
+  },
+  {
+    "id": "ahavas",
+    "name": "Ahavas Israel",
+    "short_name": "Ahavas Israel",
+    "default_on": false,
+    "file": "ahavas.json",
+    "updated": "2026-09-24T20:43:05+00:00",
+    "stale": false
+  }
+]
