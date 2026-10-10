@@ -1,0 +1,1058 @@
+{
+  "file": "october_2026.01.pdf",
+  "url": "https://www.ayby.org/uploads/6/9/1/7/6917229/october_2026.01.pdf",
+  "sha256": "e9c228b832bdb47e401cc7989173b938349a6dceb5a67699e4dbeeeae023bd1c",
+  "fetched": "2026-10-10T01:45:26+00:00",
+  "month": "2026-10",
+  "legend": [],
+  "notes": [],
+  "days": [
+    {
+      "date": "2026-10-05",
+      "hebrew_date": "24 תשרי",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:20, 7:00, 7:20, 8:15, 8:45",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "6:10 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "hebrew_date": "25 תשרי",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:25, 7:00, 7:30, 8:15, 8:45",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "6:10 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "hebrew_date": "26 תשרי",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:25, 7:00, 7:30, 8:15, 8:45",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "6:10 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "hebrew_date": "27 תשרי",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:20, 7:00, 7:20, 8:15, 8:45",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "6:10 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "hebrew_date": "28 תשרי",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:25, 7:00, 7:30, 8:15, 8:45",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Hadlakas Haneiros/Mincha",
+          "time": "6:07 pm",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "hebrew_date": "29 תשרי",
+      "titles": [
+        "בראשית"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:15, 8:30",
+          "bold": false
+        },
+        {
+          "label": "Zman Krias Shma",
+          "time": "9:52 am",
+          "bold": false
+        },
+        {
+          "label": "Zman Tefillah",
+          "time": "10:49 am",
+          "bold": false
+        },
+        {
+          "label": "Zman Mincha Gedola",
+          "time": "1:14 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:45, 4:40, 5:50",
+          "bold": false
+        },
+        {
+          "label": "Shiur",
+          "time": "5:05, 6:50 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "7:13 pm",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "hebrew_date": "30 תשרי",
+      "titles": [
+        "ראש חודש חשון"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00, 7:50, 8:50",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "6:00 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "hebrew_date": "1 חשון",
+      "titles": [
+        "ראש חודש חשון"
+      ],
+      "items": [
+        {
+          "label": "Earliest Talis & T'filin",
+          "time": "6:15 am",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "6:15, 7:00, 7:15, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "6:00 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "hebrew_date": "2 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:25, 7:00, 7:30, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "6:00 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "hebrew_date": "3 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:25, 7:00, 7:30, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "6:00 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "hebrew_date": "4 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Earliest Talis & T'filin",
+          "time": "6:18 am",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "6:20, 7:00, 7:20, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "6:00 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "hebrew_date": "5 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:25, 7:00, 7:30, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Hadlakas Haneiros/Mincha",
+          "time": "5:56 pm",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "hebrew_date": "6 חשון",
+      "titles": [
+        "נח"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:15, 8:30",
+          "bold": false
+        },
+        {
+          "label": "Zman Krias Shma",
+          "time": "9:55 am",
+          "bold": false
+        },
+        {
+          "label": "Zman Tefillah",
+          "time": "10:51 am",
+          "bold": false
+        },
+        {
+          "label": "Zman Mincha Gedola",
+          "time": "1:12 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:45, 4:25, 5:35",
+          "bold": false
+        },
+        {
+          "label": "Shiur",
+          "time": "4:50, 6:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "7:02 pm",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "hebrew_date": "7 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00, 7:50, 8:50",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "5:50 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "hebrew_date": "8 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Earliest Talis & T'filin",
+          "time": "6:23 am",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "6:23, 7:00, 7:20, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "5:50 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "hebrew_date": "9 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Earliest Talis & T'filin",
+          "time": "6:24 am",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "6:25, 7:00, 7:30, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "5:50 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "hebrew_date": "10 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Earliest Talis & T'filin",
+          "time": "6:25 am",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "6:25, 7:00, 7:30, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "5:50 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "hebrew_date": "11 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Earliest Talis & T'filin",
+          "time": "6:26 am",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "6:26, 7:00, 7:20, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "5:50 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "hebrew_date": "12 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Earliest Talis & T'filin",
+          "time": "6:27 am",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "6:27, 7:00, 7:30, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Hadlakas Haneiros/Mincha",
+          "time": "5:46 pm",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "hebrew_date": "13 חשון",
+      "titles": [
+        "לך לך"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:15, 8:30",
+          "bold": false
+        },
+        {
+          "label": "Zman Krias Shma",
+          "time": "9:59 am",
+          "bold": false
+        },
+        {
+          "label": "Zman Tefillah",
+          "time": "10:52 am",
+          "bold": false
+        },
+        {
+          "label": "Zman Mincha Gedola",
+          "time": "1:11 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:45, 4:15, 5:25",
+          "bold": false
+        },
+        {
+          "label": "Shiur",
+          "time": "4:40, 6:30 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "6:52 pm",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "hebrew_date": "14 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00, 7:50, 8:50",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "5:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "hebrew_date": "15 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Earliest Talis & T'filin",
+          "time": "6:30 am",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "6:30, 7:00, 7:20, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "5:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "hebrew_date": "16 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Earliest Talis & T'filin",
+          "time": "6:31 am",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "6:31, 7:00, 7:30, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "5:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "hebrew_date": "17 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Earliest Talis & T'filin",
+          "time": "6:32 am",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "6:32, 7:00, 7:30, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "5:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "hebrew_date": "18 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Earliest Talis & T'filin",
+          "time": "6:33 am",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "6:33, 7:00, 7:20, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "5:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "hebrew_date": "19 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Earliest Talis & T'filin",
+          "time": "6:34 am",
+          "bold": false
+        },
+        {
+          "label": "Shacharis",
+          "time": "6:34, 7:00, 7:30, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Hadlakas Haneiros/Mincha",
+          "time": "5:36 pm",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "hebrew_date": "20 חשון",
+      "titles": [
+        "וירא"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:15, 8:30",
+          "bold": false
+        },
+        {
+          "label": "Zman Krias Shma",
+          "time": "10:02 am",
+          "bold": false
+        },
+        {
+          "label": "Zman Tefillah",
+          "time": "10:55 am",
+          "bold": false
+        },
+        {
+          "label": "Zman Mincha Gedola",
+          "time": "1:10 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:45, 4:10, 5:20",
+          "bold": false
+        },
+        {
+          "label": "Shiur",
+          "time": "4:35, 6:20 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "6:43 pm",
+          "bold": false
+        },
+        {
+          "label": "Clocks back 1 hour",
+          "time": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "hebrew_date": "21 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00, 7:50, 8:40",
+          "bold": true
+        },
+        {
+          "label": "Mincha",
+          "time": "1:15 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:30 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "hebrew_date": "22 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:20, 7:00, 7:20, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "12:45, 1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:30 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "hebrew_date": "23 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:25, 7:00, 7:30, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "12:45, 1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:30 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "hebrew_date": "24 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:25, 7:00, 7:30, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "12:45, 1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:30 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "hebrew_date": "25 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:20, 7:00, 7:20, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "12:45, 1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:30 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15, 9:15, 10:00, 10:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "hebrew_date": "26 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:25, 7:00, 7:30, 8:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:40 pm",
+          "bold": false
+        },
+        {
+          "label": "Hadlakas Haneiros/Mincha",
+          "time": "4:28 pm",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "hebrew_date": "27 חשון",
+      "titles": [
+        "חיי שרה"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:15, 8:25",
+          "bold": true
+        },
+        {
+          "label": "Zman Krias Shma",
+          "time": "9:07 am",
+          "bold": false
+        },
+        {
+          "label": "Zman Tefillah",
+          "time": "9:58 am",
+          "bold": false
+        },
+        {
+          "label": "Zman Mincha Gedola",
+          "time": "12:10 pm",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "1:45, 3:00, 4:10",
+          "bold": false
+        },
+        {
+          "label": "Shiur",
+          "time": "3:25, 5:10 pm",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:35 pm",
+          "bold": false
+        }
+      ]
+    }
+  ]
+}
