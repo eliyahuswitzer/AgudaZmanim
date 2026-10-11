@@ -1,0 +1,6777 @@
+{
+  "id": "bmze",
+  "name": "Bais Medrash Zichron Eliezer",
+  "address": "5 Tennyson Place, Passaic, NJ 07055",
+  "website": "https://www.ourshul.net/",
+  "pdf_url": "https://eliyahuswitzer.github.io/AgudaZmanim/calendars/bmze/BMZE_5787.pdf",
+  "updated": "2026-10-11T15:48:58+00:00",
+  "legend": [
+    "Early Mincha: candle lighting not before plag (15 minutes after Mincha)",
+    "Weekday times are the shul's regular schedule. Check with the shul around Yom Tov, fast days and Purim."
+  ],
+  "notes": [],
+  "days": [
+    {
+      "date": "2026-10-09",
+      "hebrew_date": "28 תשרי",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "6:07",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "hebrew_date": "29 תשרי",
+      "titles": [
+        "בראשית"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:52",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "5:43",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "6:23",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "7:23",
+          "bold": false
+        },
+        {
+          "label": "Shabbos Mevarchim",
+          "time": "",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "hebrew_date": "30 תשרי",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "6:07",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "hebrew_date": "1 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:50",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "hebrew_date": "2 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "hebrew_date": "3 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "hebrew_date": "4 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "hebrew_date": "5 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "5:56",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "hebrew_date": "6 חשון",
+      "titles": [
+        "נח"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:55",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "5:32",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "6:12",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "7:12",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "hebrew_date": "7 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "5:56",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "hebrew_date": "8 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "hebrew_date": "9 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "hebrew_date": "10 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "hebrew_date": "11 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "hebrew_date": "12 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "5:46",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "hebrew_date": "13 חשון",
+      "titles": [
+        "לך לך"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:59",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "5:22",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "6:02",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "7:02",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "hebrew_date": "14 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "5:46",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "hebrew_date": "15 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "hebrew_date": "16 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "hebrew_date": "17 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "hebrew_date": "18 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "hebrew_date": "19 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "5:36",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "hebrew_date": "20 חשון",
+      "titles": [
+        "וירא"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "10:02",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "5:13",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "5:53",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "6:53",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "hebrew_date": "21 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:37",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "hebrew_date": "22 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "hebrew_date": "23 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "hebrew_date": "24 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "hebrew_date": "25 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "hebrew_date": "26 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "4:28",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "hebrew_date": "27 חשון",
+      "titles": [
+        "חיי שרה"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:25",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:07",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "4:05",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "4:45",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:45",
+          "bold": false
+        },
+        {
+          "label": "Shabbos Mevarchim",
+          "time": "",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "hebrew_date": "28 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:29",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "hebrew_date": "29 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "hebrew_date": "30 חשון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:50",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "hebrew_date": "1 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:50",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "hebrew_date": "2 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "hebrew_date": "3 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "4:21",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "hebrew_date": "4 כסלו",
+      "titles": [
+        "תולדות"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:25",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:11",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "3:58",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "4:38",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:38",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "hebrew_date": "5 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:23",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "hebrew_date": "6 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "hebrew_date": "7 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "hebrew_date": "8 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "hebrew_date": "9 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "hebrew_date": "10 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "4:16",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "hebrew_date": "11 כסלו",
+      "titles": [
+        "ויצא"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:16",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "3:53",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "4:33",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:33",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "hebrew_date": "12 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:18",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "hebrew_date": "13 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "hebrew_date": "14 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "hebrew_date": "15 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "hebrew_date": "16 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "hebrew_date": "17 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "4:12",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "hebrew_date": "18 כסלו",
+      "titles": [
+        "וישלח"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:21",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "3:50",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "4:30",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:30",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "hebrew_date": "19 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:14",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "hebrew_date": "20 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "hebrew_date": "21 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-02",
+      "hebrew_date": "22 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "hebrew_date": "23 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-04",
+      "hebrew_date": "24 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "4:10",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "hebrew_date": "25 כסלו",
+      "titles": [
+        "וישב – חנוכה"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:26",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "3:48",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "4:28",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:28",
+          "bold": false
+        },
+        {
+          "label": "Shabbos Mevarchim",
+          "time": "",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-06",
+      "hebrew_date": "26 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:13",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-07",
+      "hebrew_date": "27 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "hebrew_date": "28 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-09",
+      "hebrew_date": "29 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-10",
+      "hebrew_date": "30 כסלו",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:50",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "hebrew_date": "1 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:50",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "4:10",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "hebrew_date": "2 טבת",
+      "titles": [
+        "מקץ – חנוכה"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "3:48",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "4:28",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:28",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-13",
+      "hebrew_date": "3 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:14",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-14",
+      "hebrew_date": "4 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "hebrew_date": "5 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-16",
+      "hebrew_date": "6 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-17",
+      "hebrew_date": "7 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "hebrew_date": "8 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "4:12",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-19",
+      "hebrew_date": "9 טבת",
+      "titles": [
+        "ויגש"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:35",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "3:50",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "4:30",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:30",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-20",
+      "hebrew_date": "10 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-21",
+      "hebrew_date": "11 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-22",
+      "hebrew_date": "12 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-23",
+      "hebrew_date": "13 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "hebrew_date": "14 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-25",
+      "hebrew_date": "15 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "4:16",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-26",
+      "hebrew_date": "16 טבת",
+      "titles": [
+        "ויחי"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:38",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "3:54",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "4:34",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:34",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-27",
+      "hebrew_date": "17 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:20",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-28",
+      "hebrew_date": "18 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-29",
+      "hebrew_date": "19 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-30",
+      "hebrew_date": "20 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-31",
+      "hebrew_date": "21 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-01",
+      "hebrew_date": "22 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "4:21",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-02",
+      "hebrew_date": "23 טבת",
+      "titles": [
+        "שמות"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:40",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "4:00",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "4:40",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:40",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-03",
+      "hebrew_date": "24 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:26",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-04",
+      "hebrew_date": "25 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-05",
+      "hebrew_date": "26 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-06",
+      "hebrew_date": "27 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-07",
+      "hebrew_date": "28 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-08",
+      "hebrew_date": "29 טבת",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "4:27",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-09",
+      "hebrew_date": "1 שבט",
+      "titles": [
+        "וארא"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:42",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "4:06",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "4:46",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:46",
+          "bold": false
+        },
+        {
+          "label": "Rosh Chodesh",
+          "time": "",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-10",
+      "hebrew_date": "2 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:32",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-11",
+      "hebrew_date": "3 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-12",
+      "hebrew_date": "4 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-13",
+      "hebrew_date": "5 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-14",
+      "hebrew_date": "6 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-15",
+      "hebrew_date": "7 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "4:35",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-16",
+      "hebrew_date": "8 שבט",
+      "titles": [
+        "בא"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:42",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "4:14",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "4:54",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "5:54",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-17",
+      "hebrew_date": "9 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:40",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-18",
+      "hebrew_date": "10 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-19",
+      "hebrew_date": "11 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-20",
+      "hebrew_date": "12 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-21",
+      "hebrew_date": "13 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-22",
+      "hebrew_date": "14 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "4:43",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-23",
+      "hebrew_date": "15 שבט",
+      "titles": [
+        "בשלח"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:41",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "4:22",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "5:02",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "6:02",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-24",
+      "hebrew_date": "16 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:48",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-25",
+      "hebrew_date": "17 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-26",
+      "hebrew_date": "18 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-27",
+      "hebrew_date": "19 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-28",
+      "hebrew_date": "20 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-29",
+      "hebrew_date": "21 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "4:51",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-30",
+      "hebrew_date": "22 שבט",
+      "titles": [
+        "יתרו"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:39",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "4:31",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "5:11",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "6:11",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-01-31",
+      "hebrew_date": "23 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "4:57",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-01",
+      "hebrew_date": "24 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-02",
+      "hebrew_date": "25 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-03",
+      "hebrew_date": "26 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-04",
+      "hebrew_date": "27 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-05",
+      "hebrew_date": "28 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "5:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-06",
+      "hebrew_date": "29 שבט",
+      "titles": [
+        "משפטים"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:36",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "4:39",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "5:19",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "6:19",
+          "bold": false
+        },
+        {
+          "label": "Shabbos Mevarchim",
+          "time": "",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-07",
+      "hebrew_date": "30 שבט",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "5:06",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-08",
+      "hebrew_date": "1 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:50",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-09",
+      "hebrew_date": "2 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-10",
+      "hebrew_date": "3 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-11",
+      "hebrew_date": "4 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-12",
+      "hebrew_date": "5 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "5:09",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-13",
+      "hebrew_date": "6 אדר א׳",
+      "titles": [
+        "תרומה"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:32",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "4:48",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "5:28",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "6:28",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-14",
+      "hebrew_date": "7 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "5:14",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-15",
+      "hebrew_date": "8 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-16",
+      "hebrew_date": "9 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-17",
+      "hebrew_date": "10 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-18",
+      "hebrew_date": "11 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-19",
+      "hebrew_date": "12 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "5:17",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-20",
+      "hebrew_date": "13 אדר א׳",
+      "titles": [
+        "תצוה"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:27",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "4:56",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "5:36",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "6:36",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-21",
+      "hebrew_date": "14 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "5:23",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-22",
+      "hebrew_date": "15 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-23",
+      "hebrew_date": "16 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-24",
+      "hebrew_date": "17 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-25",
+      "hebrew_date": "18 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-26",
+      "hebrew_date": "19 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "5:25",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-27",
+      "hebrew_date": "20 אדר א׳",
+      "titles": [
+        "כי תשא"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:21",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "5:05",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "5:45",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "6:45",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-02-28",
+      "hebrew_date": "21 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "5:31",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-01",
+      "hebrew_date": "22 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-02",
+      "hebrew_date": "23 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-03",
+      "hebrew_date": "24 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-04",
+      "hebrew_date": "25 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-05",
+      "hebrew_date": "26 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "5:33",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-06",
+      "hebrew_date": "27 אדר א׳",
+      "titles": [
+        "ויקהל–שקלים"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "5:13",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "5:53",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "6:53",
+          "bold": false
+        },
+        {
+          "label": "Shabbos Mevarchim",
+          "time": "",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-07",
+      "hebrew_date": "28 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "5:39",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-08",
+      "hebrew_date": "29 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-09",
+      "hebrew_date": "30 אדר א׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:50",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-10",
+      "hebrew_date": "1 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:50",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-11",
+      "hebrew_date": "2 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-12",
+      "hebrew_date": "3 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "5:41",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-13",
+      "hebrew_date": "4 אדר ב׳",
+      "titles": [
+        "פקודי"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:25",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:09",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "5:20",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "6:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "7:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-14",
+      "hebrew_date": "5 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "6:46",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-15",
+      "hebrew_date": "6 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-16",
+      "hebrew_date": "7 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-17",
+      "hebrew_date": "8 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-18",
+      "hebrew_date": "9 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-19",
+      "hebrew_date": "10 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "6:49",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-20",
+      "hebrew_date": "11 אדר ב׳",
+      "titles": [
+        "ויקרא – זכור"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "10:02",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "6:28",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "7:08",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:08",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-21",
+      "hebrew_date": "12 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "6:54",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-22",
+      "hebrew_date": "13 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-23",
+      "hebrew_date": "14 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-24",
+      "hebrew_date": "15 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-25",
+      "hebrew_date": "16 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-26",
+      "hebrew_date": "17 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "6:56",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-27",
+      "hebrew_date": "18 אדר ב׳",
+      "titles": [
+        "צו – פרה"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:55",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "6:35",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "7:15",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:15",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-28",
+      "hebrew_date": "19 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "7:01",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-29",
+      "hebrew_date": "20 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-30",
+      "hebrew_date": "21 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-03-31",
+      "hebrew_date": "22 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-01",
+      "hebrew_date": "23 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-02",
+      "hebrew_date": "24 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "7:04",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-03",
+      "hebrew_date": "25 אדר ב׳",
+      "titles": [
+        "שמיני – החודש"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:48",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "6:43",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "7:23",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:23",
+          "bold": false
+        },
+        {
+          "label": "Shabbos Mevarchim",
+          "time": "",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-04",
+      "hebrew_date": "26 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "7:09",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-05",
+      "hebrew_date": "27 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-06",
+      "hebrew_date": "28 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-07",
+      "hebrew_date": "29 אדר ב׳",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-08",
+      "hebrew_date": "1 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:50",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-09",
+      "hebrew_date": "2 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "7:11",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-10",
+      "hebrew_date": "3 ניסן",
+      "titles": [
+        "תזריע"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:41",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "6:50",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "7:30",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:30",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-11",
+      "hebrew_date": "4 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "7:16",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-12",
+      "hebrew_date": "5 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-13",
+      "hebrew_date": "6 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-14",
+      "hebrew_date": "7 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-15",
+      "hebrew_date": "8 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-16",
+      "hebrew_date": "9 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "7:18",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-17",
+      "hebrew_date": "10 ניסן",
+      "titles": [
+        "מצורע"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:35",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "6:58",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "7:38",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:38",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-18",
+      "hebrew_date": "11 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "7:24",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-19",
+      "hebrew_date": "12 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-20",
+      "hebrew_date": "13 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-21",
+      "hebrew_date": "14 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-04-30",
+      "hebrew_date": "23 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Early Mincha",
+          "time": "6:09",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "7:33",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-01",
+      "hebrew_date": "24 ניסן",
+      "titles": [
+        "אחרי מות"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:24",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "7:12",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "7:52",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:52",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-02",
+      "hebrew_date": "25 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "7:38",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-03",
+      "hebrew_date": "26 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-04",
+      "hebrew_date": "27 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-05",
+      "hebrew_date": "28 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-06",
+      "hebrew_date": "29 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-07",
+      "hebrew_date": "30 ניסן",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:50",
+          "bold": false
+        },
+        {
+          "label": "Early Mincha",
+          "time": "6:15",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "7:41",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-08",
+      "hebrew_date": "1 אייר",
+      "titles": [
+        "קדושים"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:19",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "7:20",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "8:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        },
+        {
+          "label": "Rosh Chodesh",
+          "time": "",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-09",
+      "hebrew_date": "2 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "7:46",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-10",
+      "hebrew_date": "3 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-11",
+      "hebrew_date": "4 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-12",
+      "hebrew_date": "5 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-13",
+      "hebrew_date": "6 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-14",
+      "hebrew_date": "7 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Early Mincha",
+          "time": "6:20",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "7:48",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-15",
+      "hebrew_date": "8 אייר",
+      "titles": [
+        "אמור"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:16",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "7:27",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "8:07",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:07",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-16",
+      "hebrew_date": "9 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "7:52",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-17",
+      "hebrew_date": "10 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-18",
+      "hebrew_date": "11 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-19",
+      "hebrew_date": "12 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-20",
+      "hebrew_date": "13 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-21",
+      "hebrew_date": "14 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Early Mincha",
+          "time": "6:26",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "7:54",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-22",
+      "hebrew_date": "15 אייר",
+      "titles": [
+        "בהר"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:25",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:13",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "7:33",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "8:13",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:13",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-23",
+      "hebrew_date": "16 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "7:59",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-24",
+      "hebrew_date": "17 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-25",
+      "hebrew_date": "18 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-26",
+      "hebrew_date": "19 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-27",
+      "hebrew_date": "20 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-28",
+      "hebrew_date": "21 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Early Mincha",
+          "time": "6:31",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "8:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-29",
+      "hebrew_date": "22 אייר",
+      "titles": [
+        "בחוקתי"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:25",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:11",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "7:39",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "8:19",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:19",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-30",
+      "hebrew_date": "23 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "8:05",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-05-31",
+      "hebrew_date": "24 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-01",
+      "hebrew_date": "25 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-02",
+      "hebrew_date": "26 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-03",
+      "hebrew_date": "27 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-04",
+      "hebrew_date": "28 אייר",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Early Mincha",
+          "time": "6:35",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "8:05",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-05",
+      "hebrew_date": "29 אייר",
+      "titles": [
+        "במדבר"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:25",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:10",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "7:44",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "8:24",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:24",
+          "bold": false
+        },
+        {
+          "label": "Shabbos Mevarchim",
+          "time": "",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-06",
+      "hebrew_date": "1 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "8:10",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-07",
+      "hebrew_date": "2 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-08",
+      "hebrew_date": "3 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-09",
+      "hebrew_date": "4 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-10",
+      "hebrew_date": "5 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-13",
+      "hebrew_date": "8 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-14",
+      "hebrew_date": "9 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-15",
+      "hebrew_date": "10 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-16",
+      "hebrew_date": "11 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-17",
+      "hebrew_date": "12 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-18",
+      "hebrew_date": "13 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Early Mincha",
+          "time": "6:41",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "8:12",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-19",
+      "hebrew_date": "14 סיון",
+      "titles": [
+        "נשא"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:25",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:11",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "7:51",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "8:31",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:31",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-20",
+      "hebrew_date": "15 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "8:16",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-21",
+      "hebrew_date": "16 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-22",
+      "hebrew_date": "17 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-23",
+      "hebrew_date": "18 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-24",
+      "hebrew_date": "19 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-25",
+      "hebrew_date": "20 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Early Mincha",
+          "time": "6:42",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "8:14",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-26",
+      "hebrew_date": "21 סיון",
+      "titles": [
+        "בהעלותך"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:25",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:12",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "7:52",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "8:32",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:32",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-27",
+      "hebrew_date": "22 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "8:17",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-28",
+      "hebrew_date": "23 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-29",
+      "hebrew_date": "24 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-06-30",
+      "hebrew_date": "25 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-01",
+      "hebrew_date": "26 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-02",
+      "hebrew_date": "27 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Early Mincha",
+          "time": "6:42",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "8:13",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-03",
+      "hebrew_date": "28 סיון",
+      "titles": [
+        "שלח"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:15",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "7:51",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "8:31",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:31",
+          "bold": false
+        },
+        {
+          "label": "Shabbos Mevarchim",
+          "time": "",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-04",
+      "hebrew_date": "29 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "8:16",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-05",
+      "hebrew_date": "30 סיון",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:50",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-06",
+      "hebrew_date": "1 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:50",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-07",
+      "hebrew_date": "2 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-08",
+      "hebrew_date": "3 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-09",
+      "hebrew_date": "4 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Early Mincha",
+          "time": "6:41",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "8:11",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-10",
+      "hebrew_date": "5 תמוז",
+      "titles": [
+        "קרח"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:17",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "7:49",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "8:29",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:29",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-11",
+      "hebrew_date": "6 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "8:14",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-12",
+      "hebrew_date": "7 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-13",
+      "hebrew_date": "8 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-14",
+      "hebrew_date": "9 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-15",
+      "hebrew_date": "10 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-16",
+      "hebrew_date": "11 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Early Mincha",
+          "time": "6:38",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "8:08",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-17",
+      "hebrew_date": "12 תמוז",
+      "titles": [
+        "חקת-בלק"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:20",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "7:45",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "8:25",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:25",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-18",
+      "hebrew_date": "13 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "8:09",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-19",
+      "hebrew_date": "14 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-20",
+      "hebrew_date": "15 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-21",
+      "hebrew_date": "16 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-22",
+      "hebrew_date": "17 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-23",
+      "hebrew_date": "18 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Early Mincha",
+          "time": "6:34",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "8:03",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-24",
+      "hebrew_date": "19 תמוז",
+      "titles": [
+        "פינחס"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:24",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "7:40",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "8:20",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:20",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-25",
+      "hebrew_date": "20 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "8:04",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-26",
+      "hebrew_date": "21 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-27",
+      "hebrew_date": "22 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-28",
+      "hebrew_date": "23 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-29",
+      "hebrew_date": "24 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-30",
+      "hebrew_date": "25 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Early Mincha",
+          "time": "6:29",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "7:56",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-07-31",
+      "hebrew_date": "26 תמוז",
+      "titles": [
+        "מטות-מסעי"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:27",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "7:33",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "8:13",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:13",
+          "bold": false
+        },
+        {
+          "label": "Shabbos Mevarchim",
+          "time": "",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-01",
+      "hebrew_date": "27 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "7:57",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-02",
+      "hebrew_date": "28 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-03",
+      "hebrew_date": "29 תמוז",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-04",
+      "hebrew_date": "1 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:50",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-05",
+      "hebrew_date": "2 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-06",
+      "hebrew_date": "3 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Early Mincha",
+          "time": "6:23",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "7:48",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-07",
+      "hebrew_date": "4 אב",
+      "titles": [
+        "דברים"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "7:25",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "8:05",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:05",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-08",
+      "hebrew_date": "5 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "7:49",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-09",
+      "hebrew_date": "6 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-10",
+      "hebrew_date": "7 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-11",
+      "hebrew_date": "8 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-13",
+      "hebrew_date": "10 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Early Mincha",
+          "time": "6:15",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "7:39",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-14",
+      "hebrew_date": "11 אב",
+      "titles": [
+        "ואתחנן"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:33",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "7:16",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "7:56",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:56",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-15",
+      "hebrew_date": "12 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "7:39",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-16",
+      "hebrew_date": "13 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-17",
+      "hebrew_date": "14 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-18",
+      "hebrew_date": "15 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-19",
+      "hebrew_date": "16 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-20",
+      "hebrew_date": "17 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "7:29",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-21",
+      "hebrew_date": "18 אב",
+      "titles": [
+        "עקב"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:35",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "7:06",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "7:46",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:46",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-22",
+      "hebrew_date": "19 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "7:29",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-23",
+      "hebrew_date": "20 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-24",
+      "hebrew_date": "21 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-25",
+      "hebrew_date": "22 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-26",
+      "hebrew_date": "23 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-27",
+      "hebrew_date": "24 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "7:19",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-28",
+      "hebrew_date": "25 אב",
+      "titles": [
+        "ראה"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:38",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "6:55",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "7:35",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:35",
+          "bold": false
+        },
+        {
+          "label": "Shabbos Mevarchim",
+          "time": "",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-29",
+      "hebrew_date": "26 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "7:18",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-30",
+      "hebrew_date": "27 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-08-31",
+      "hebrew_date": "28 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-01",
+      "hebrew_date": "29 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-02",
+      "hebrew_date": "30 אב",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:50",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-03",
+      "hebrew_date": "1 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "6:50",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "7:07",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-04",
+      "hebrew_date": "2 אלול",
+      "titles": [
+        "שופטים"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:40",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "6:44",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "7:24",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:24",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-05",
+      "hebrew_date": "3 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "7:07",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-06",
+      "hebrew_date": "4 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-07",
+      "hebrew_date": "5 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-08",
+      "hebrew_date": "6 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-09",
+      "hebrew_date": "7 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-10",
+      "hebrew_date": "8 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "6:56",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-11",
+      "hebrew_date": "9 אלול",
+      "titles": [
+        "כי תצא"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:42",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "6:32",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "7:12",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:12",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-12",
+      "hebrew_date": "10 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "6:55",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-13",
+      "hebrew_date": "11 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-14",
+      "hebrew_date": "12 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-15",
+      "hebrew_date": "13 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-16",
+      "hebrew_date": "14 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-17",
+      "hebrew_date": "15 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "6:44",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-18",
+      "hebrew_date": "16 אלול",
+      "titles": [
+        "כי תבוא"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:45",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "6:20",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "8:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-19",
+      "hebrew_date": "17 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "6:44",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-20",
+      "hebrew_date": "18 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-21",
+      "hebrew_date": "19 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-22",
+      "hebrew_date": "20 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-23",
+      "hebrew_date": "21 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "9:00",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-24",
+      "hebrew_date": "22 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "7:00",
+          "bold": false
+        },
+        {
+          "label": "Candle Lighting/Mincha",
+          "time": "6:32",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-25",
+      "hebrew_date": "23 אלול",
+      "titles": [
+        "נצבים-וילך"
+      ],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Sof Zman Krias Shma",
+          "time": "9:47",
+          "bold": false
+        },
+        {
+          "label": "Mincha",
+          "time": "6:08",
+          "bold": false
+        },
+        {
+          "label": "Shkia",
+          "time": "6:48",
+          "bold": false
+        },
+        {
+          "label": "Ma'ariv",
+          "time": "7:48",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "date": "2027-09-26",
+      "hebrew_date": "24 אלול",
+      "titles": [],
+      "items": [
+        {
+          "label": "Shacharis",
+          "time": "8:30",
+          "bold": false
+        },
+        {
+          "label": "Mincha/Ma'ariv",
+          "time": "6:32",
+          "bold": false
+        }
+      ]
+    }
+  ]
+}

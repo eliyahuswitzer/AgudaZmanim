@@ -1,6 +1,8 @@
 """
 Checks each shul's website for its monthly calendar PDF, parses anything new,
-and rebuilds the data files the web app reads.
+and rebuilds the data files the web app reads. Shuls that don't post their
+calendar online (BMZE) read it from a folder in docs/ instead: drop the new PDF
+in that folder and commit it.
 
     python scraper/update.py
 
@@ -21,11 +23,13 @@ from urllib.request import Request, urlopen
 
 import aguda_parser
 import ahavas_parser
+import bmze_parser
 from parsing import MONTHS
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "docs" / "data"
 SOURCES_DIR = DATA_DIR / "sources"
+SITE_URL = "https://eliyahuswitzer.github.io/AgudaZmanim/"
 # Old calendars are dropped once their last day is this far in the past.
 KEEP_DAYS_AFTER_END = 30
 
@@ -53,6 +57,18 @@ SHULS = [
         # ShulCloud posts the calendar as e.g. calendar0926.pdf
         "link_pattern": re.compile(r"calendar\d{4}\.pdf", re.IGNORECASE),
         "parser": ahavas_parser.parse_pdf,
+        "default_on": False,
+        "required": False,
+    },
+    {
+        "id": "bmze",
+        "name": "Bais Medrash Zichron Eliezer",
+        "short_name": "BMZE",
+        "address": "5 Tennyson Place, Passaic, NJ 07055",
+        "website": "https://www.ourshul.net/",
+        # A yearly schedule the shul hands out but doesn't post, so it's kept here
+        "pdf_folder": ROOT / "docs" / "calendars" / "bmze",
+        "parser": bmze_parser.parse_pdf,
         "default_on": False,
         "required": False,
     },
@@ -86,13 +102,22 @@ def find_calendar_links(shul):
     return links
 
 
-def update_source(shul, url):
-    """Downloads one calendar and re-parses it only if its contents changed."""
+def find_local_calendars(shul):
+    """The calendar PDFs saved in this shul's folder, with the URL each is served at."""
+    pdfs = sorted(shul["pdf_folder"].glob("*.pdf"))
+    if not pdfs:
+        raise RuntimeError(f"no calendar PDF in {shul['pdf_folder']}")
+    return [(SITE_URL + pdf.relative_to(ROOT / "docs").as_posix(), pdf.read_bytes()) for pdf in pdfs]
+
+
+def update_source(shul, url, pdf_bytes=None):
+    """Downloads one calendar (unless given) and re-parses it only if its contents changed."""
     file_name = unquote(url.rsplit("/", 1)[-1])
     source_dir = SOURCES_DIR / shul["id"]
     source_path = source_dir / (re.sub(r"[^a-z0-9_-]+", "_", Path(file_name).stem.lower()) + ".json")
 
-    pdf_bytes = fetch(url)
+    if pdf_bytes is None:
+        pdf_bytes = fetch(url)
     sha256 = hashlib.sha256(pdf_bytes).hexdigest()
     if source_path.exists() and json.loads(source_path.read_text("utf-8"))["sha256"] == sha256:
         print(f"  unchanged: {file_name}")
@@ -143,7 +168,7 @@ def rebuild_shul(shul):
         "name": shul["name"],
         "address": shul["address"],
         "website": shul["website"],
-        "pdf_url": newest["url"] if newest else shul["calendar_page"],
+        "pdf_url": newest["url"] if newest else shul.get("calendar_page", shul["website"]),
         "updated": max((s["fetched"] for s in sources), default=None),
         "legend": newest["legend"] if newest else [],
         "notes": newest["notes"] if newest else [],
@@ -162,11 +187,15 @@ def main():
     for shul in SHULS:
         print(f"{shul['name']}:")
         try:
-            links = find_calendar_links(shul)
-            if not links:
-                raise RuntimeError(f"no calendar PDF linked from {shul['calendar_page']}")
-            for url in links:
-                update_source(shul, url)
+            if "pdf_folder" in shul:
+                for url, pdf_bytes in find_local_calendars(shul):
+                    update_source(shul, url, pdf_bytes)
+            else:
+                links = find_calendar_links(shul)
+                if not links:
+                    raise RuntimeError(f"no calendar PDF linked from {shul['calendar_page']}")
+                for url in links:
+                    update_source(shul, url)
         except Exception as error:  # a broken optional shul shouldn't stop the others
             print(f"  problem: {error}")
             problems.append((shul, str(error)))
